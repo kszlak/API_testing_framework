@@ -15,7 +15,7 @@
       <change afterPath="$PROJECT_DIR$/../WTF/.idea/WTF.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WTF/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WTF/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,11 +70,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
               <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="85">
+                <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -114,15 +126,6 @@
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api_tests_framework/src/handlers/validate/username/validate_username_handler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -172,6 +175,7 @@
         <option value="$PROJECT_DIR$/api_tests/user/test_user.py" />
         <option value="$PROJECT_DIR$/api_tests/user/test_user_signup.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -201,65 +205,6 @@
               <item name="training_api_tests" type="b2602c69:ProjectViewProjectNode" />
               <item name="training_api_tests" type="462c0819:PsiDirectoryNode" />
               <item name="api_tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="training_api_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="training_api_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="api_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="training_api_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="training_api_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="api_tests_framework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="training_api_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="training_api_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="api_tests_framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="training_api_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="training_api_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="api_tests_framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="actions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="training_api_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="training_api_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="api_tests_framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="actions" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="training_api_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="training_api_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="api_tests_framework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="handlers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="training_api_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="training_api_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="api_tests_framework" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="training_api_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="training_api_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="api_tests_framework" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="errors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="training_api_tests" type="b2602c69:ProjectViewProjectNode" />
-              <item name="training_api_tests" type="462c0819:PsiDirectoryNode" />
-              <item name="api_tests_framework" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="unittest_wrappers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -426,6 +371,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25655282" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -656,6 +602,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
