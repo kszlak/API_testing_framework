@@ -36,16 +36,8 @@ class SignupTestSuite(ModelValidationTestCase):
             )
 
 
-    """def test_sign_up_with_incorrect_password(self):
-        req = SignupHandler( actor=self.actor ).post(
-            username = "Nelka",
-            password=self.actor.password,
-            firstname=self.actor.firstname,
-            lastname=self.actor.lastname
-        )
-
-        print (req.content)
-        response3 = req.json()
-
-        # Assert already existing username
-        self.assertIn("Username already taken", response3["message"])"""
+    """def test_sign_up_with_used_username(self):
+        with self.assertRaises(http_exceptions.UnprocessableEntity):
+            UserActions(actor=self.actor).signup(
+                username = "Nelka"
+            )"""

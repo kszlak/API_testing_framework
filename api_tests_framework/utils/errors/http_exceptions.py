@@ -27,3 +27,7 @@ class UnprocessableEntity(HttpException):
 @add_http_exception
 class Unauthorized( HttpException ):
     status_code = 401
+
+@add_http_exception
+class Bad_request( HttpException ):
+    status_code = 402
